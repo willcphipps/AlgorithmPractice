@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamphipps/Desktop/CodingDojo/C#_stack/Puzzles/Puzzles.csproj",
+      "projectUniqueName": "/Users/williamphipps/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/Puzzles.csproj",
       "projectName": "Puzzles",
-      "projectPath": "/Users/williamphipps/Desktop/CodingDojo/C#_stack/Puzzles/Puzzles.csproj",
+      "projectPath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/Puzzles.csproj",
       "packagesPath": "/Users/williamphipps/.nuget/packages/",
-      "outputPath": "/Users/williamphipps/Desktop/CodingDojo/C#_stack/Puzzles/obj/",
+      "outputPath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
